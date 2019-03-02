@@ -1,4 +1,4 @@
-import info from "../inmateJournal.js";
+import info from "../../inmateJournal.js";
 
 var app = {
     model: {
