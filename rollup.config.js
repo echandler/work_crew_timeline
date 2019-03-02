@@ -21,7 +21,7 @@ export default {
         format: "umd",
         name: "The NAME",
         // extend : true,
-        file: "./js/bundle.js",
+        file: "./frontend/js/bundle.js",
         // banner: "import info from \"../inmateJournal.js\";\n",
         // outro: '/* Fancy new Rollup.js outro! */',
         // banner: '/* Fancy new Rollup.js banner! */\n',
