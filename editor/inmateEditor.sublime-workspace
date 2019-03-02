@@ -1,0 +1,811 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"make",
+				"makeMarkersForAllResults"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"op",
+				"options_module"
+			],
+			[
+				"cre",
+				"createElement"
+			],
+			[
+				"citi",
+				"citiesGroup"
+			],
+			[
+				"svg",
+				"svgContainer"
+			],
+			[
+				"parent",
+				"parentElement"
+			],
+			[
+				"paren",
+				"parentElement"
+			],
+			[
+				"coord",
+				"mapControl_module"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"zoom",
+				"zoom_module"
+			],
+			[
+				"offsetTop",
+				"offsetTopAdjust"
+			],
+			[
+				"off",
+				"offsetHeight"
+			],
+			[
+				"clust",
+				"clusterMarker"
+			],
+			[
+				"pos",
+				"posOnBezierCurve"
+			],
+			[
+				"resized",
+				"resizedMapHeight"
+			],
+			[
+				"resi",
+				"resizedMapWidth"
+			],
+			[
+				"resia",
+				"resizedMapWidth"
+			],
+			[
+				"_zo",
+				"_ZOOM_POWER"
+			],
+			[
+				"_z",
+				"_ZOOM_POWER"
+			],
+			[
+				"zoomed",
+				"zoomedExtentWidth"
+			],
+			[
+				"p_y",
+				"p_yMouseInContainer"
+			],
+			[
+				"p_x",
+				"p_xMouseInContainer"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"p_info",
+				"p_infoObject"
+			],
+			[
+				"q",
+				"qTreeData"
+			],
+			[
+				"view",
+				"viewPortWidth"
+			],
+			[
+				"out",
+				"outerWidth"
+			],
+			[
+				"tr",
+				"transition"
+			],
+			[
+				"cluster",
+				"clusterMarkerSize"
+			],
+			[
+				"cal",
+				"calculatePropHighlightPosition"
+			],
+			[
+				"data",
+				"qTreeData"
+			],
+			[
+				"append",
+				"appendMarkersToTheMap"
+			],
+			[
+				"remove",
+				"removeMarkersFromTheMap"
+			],
+			[
+				"getMarkers",
+				"getMarkersInExtent"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"addLe",
+				"addListener"
+			],
+			[
+				"sli",
+				"sliderPosition"
+			],
+			[
+				"marker",
+				"markersArray"
+			],
+			[
+				"delete",
+				"deleteMarkerFromArray"
+			],
+			[
+				"add",
+				"addListener"
+			],
+			[
+				"p",
+				"p_qTree"
+			],
+			[
+				"p_marker",
+				"p_markersArray"
+			],
+			[
+				"ut",
+				"utilities_module"
+			],
+			[
+				"has",
+				"hasOwnProperty"
+			],
+			[
+				"pare",
+				"parentElement"
+			],
+			[
+				"this",
+				"thisMousedown"
+			],
+			[
+				"mouse",
+				"mousedown"
+			],
+			[
+				"orient",
+				"orientStreetNames"
+			],
+			[
+				"svgTextP",
+				"svgTextPath_clone"
+			],
+			[
+				"old",
+				"oldMessageContainerWidth"
+			],
+			[
+				"messag",
+				"messageContainerWidth"
+			],
+			[
+				"redd",
+				"redderBluerGreener"
+			],
+			[
+				"more",
+				"moreMarkersExist"
+			],
+			[
+				"group",
+				"groupsArray"
+			],
+			[
+				"current",
+				"currentMarker"
+			],
+			[
+				"unhi",
+				"private_UnhighlightGroups"
+			],
+			[
+				"parcels",
+				"parcelsSvgGroup"
+			],
+			[
+				"private_",
+				"private_SR526Coords"
+			],
+			[
+				"private",
+				"private_US2Coords"
+			],
+			[
+				"arg_",
+				"arg_marker"
+			],
+			[
+				"message",
+				"messageContainer"
+			],
+			[
+				"flo",
+				"floatLayer"
+			],
+			[
+				"xml",
+				"xmlRequest"
+			],
+			[
+				"privatemak",
+				"private_makeMarkerInfoObjsArray"
+			],
+			[
+				"private_make",
+				"private_makeMarkerInfoObjsArray"
+			],
+			[
+				"response",
+				"responseText"
+			],
+			[
+				"main",
+				"mainAjaxHTTPRequest"
+			],
+			[
+				"info",
+				"infoSearch_module"
+			],
+			[
+				"new",
+				"newMapImg"
+			],
+			[
+				"CSSTR",
+				"CSSTRANSFORM"
+			],
+			[
+				"set",
+				"setTransition"
+			],
+			[
+				"init",
+				"initialAngle"
+			],
+			[
+				"spin",
+				"spinGearDownSlowlyInterval"
+			],
+			[
+				"sett",
+				"setAttribute"
+			],
+			[
+				"map",
+				"mapContainer"
+			],
+			[
+				"transit",
+				"transistionResetTimeout"
+			],
+			[
+				"test",
+				"testObj"
+			],
+			[
+				"dra",
+				"dragDiv"
+			],
+			[
+				"fini",
+				"finishY"
+			],
+			[
+				"finish",
+				"finishX"
+			],
+			[
+				"clien",
+				"clientY"
+			],
+			[
+				"clei",
+				"clientX"
+			],
+			[
+				"delt",
+				"deltaX"
+			],
+			[
+				"del",
+				"deltaX"
+			],
+			[
+				"mapDr",
+				"mapDragAndAnimation"
+			],
+			[
+				"priv",
+				"private_upperCase"
+			],
+			[
+				"tax",
+				"taxPayerName"
+			],
+			[
+				"ft",
+				"ftPerPixel"
+			],
+			[
+				"nor",
+				"normalWidth"
+			],
+			[
+				"apnA",
+				"apnAnchor"
+			],
+			[
+				"colo",
+				"colorDiv"
+			],
+			[
+				"coords",
+				"coordsArray"
+			],
+			[
+				"index",
+				"indexOf"
+			],
+			[
+				"markerPin",
+				"markerPinButtonPinned"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"present",
+				"presentMaxX"
+			],
+			[
+				"prese",
+				"presentMaxX"
+			],
+			[
+				"streets",
+				"streetsCache"
+			],
+			[
+				"keys",
+				"keysCache"
+			],
+			[
+				"ke",
+				"keysCach"
+			],
+			[
+				"cache",
+				"cacheVar"
+			],
+			[
+				"fecom",
+				"fecomponent"
+			],
+			[
+				"GRo",
+				"GROUPRENDERER"
+			],
+			[
+				"Three",
+				"THREE.Geometry"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 248.0,
+		"last_filter": "upp",
+		"selected_items":
+		[
+			[
+				"upp",
+				"Convert Case: Upper Case"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"toggle",
+				"Toggle ScopeAlways"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"Snippet: while",
+				"Snippet: while"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: int",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"package Control",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"intall",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 714.0
+	},
+	"console":
+	{
+		"height": 198.0,
+		"history":
+		[
+			"print('\\n'*100)",
+			"print",
+			"def clear",
+			"def",
+			"def clear():\\n",
+			"def clear(): print('\\n'*100)",
+			"def clear(): ",
+			"def",
+			"print('\\n'*100)",
+			"os.system(\"cls\")",
+			"clr()",
+			"clear()",
+			"clear",
+			"clr",
+			"cls",
+			"clear",
+			"sublime.log_commands(True)",
+			"sublime.log_comamnds(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_input(True)",
+			"import urllib.request,os,sys; exec(\"if sys.version_info < (3,) or os.name != 'nt': raise OSError('This code is for Windows ST3 only!')\"); pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/admin/Dropbox/JavaScript projects/inmate journal/new style/editor/editor.js",
+		"/C/Users/admin/Dropbox/JavaScript projects/inmate journal/new style/editor/createContainer.js",
+		"/C/Users/admin/Dropbox/JavaScript projects/inmate journal/new style/editor/appendNewEntry.js",
+		"/C/Users/admin/Dropbox/JavaScript projects/inmate journal/new style/editor/newEntry.js",
+		"/C/Users/admin/Desktop/test123/dist/bundle.js",
+		"/C/Users/admin/Desktop/test123/dist/bundle2.js",
+		"/C/Users/admin/Desktop/test123/dist/bundle2.js ",
+		"/C/Users/admin/Desktop/test123/dist/bundle1.js ",
+		"/C/Users/admin/Desktop/test123/dist/bundle1.js",
+		"/C/Users/admin/Desktop/test123/.jshintrc",
+		"/C/Users/admin/Desktop/test123/package-lock.json",
+		"/C/Users/admin/Desktop/website fork/snoco.sublime-project",
+		"/C/Users/admin/Desktop/website fork/javascript/utilities_module.js",
+		"/C/Users/admin/Desktop/test123/package.json",
+		"/C/Users/admin/Desktop/test123/dist/main.js",
+		"/C/Users/admin/Desktop/test123/webpack.config.js",
+		"/C/Users/admin/Desktop/test123/dist/main.f933dfee94cb5e28c80e.js",
+		"/C/Users/admin/Desktop/test123/test1.js",
+		"/C/Users/admin/Dropbox/crypto_ledger.html",
+		"/C/Users/admin/AppData/Roaming/Sublime Text 3/Packages/User/JsPrettier.sublime-settings",
+		"//LAPTOP-72L4FK44/ftp_root/highlightCoins.js",
+		"/C/Users/admin/Dropbox/JavaScript projects/inmate journal/new style/inmateJournal.js",
+		"/C/Users/admin/Desktop/website fork/css/markerStyles.css",
+		"/C/Users/admin/Desktop/website fork/javascript/zoom_module.js",
+		"/C/Users/admin/Desktop/website fork/javascript/svg_streets.js",
+		"/C/Users/admin/Desktop/website fork/javascript/scratchpad.js",
+		"/C/Users/admin/Desktop/website fork/javascript/scaleBar.js",
+		"/C/Users/admin/Desktop/website fork/javascript/quadTree_module.js",
+		"/C/Users/admin/Desktop/website fork/javascript/panning_module.js",
+		"/C/Users/admin/Desktop/website fork/javascript/overviewMap_module.js",
+		"/C/Users/admin/Desktop/website fork/javascript/overLayMap_module.js",
+		"/C/Users/admin/Desktop/website fork/javascript/options_module.js",
+		"/C/Users/admin/Desktop/website fork/javascript/measureSvgLine_module2.js",
+		"/C/Users/admin/Desktop/website fork/javascript/marker_module.js",
+		"/C/Users/admin/Desktop/website fork/javascript/mapControl_module.js",
+		"/C/Users/admin/Desktop/website fork/javascript/main.js",
+		"/C/Users/admin/Desktop/website fork/javascript/infoSearch_module.js",
+		"/C/Users/admin/Desktop/website fork/javascript/helium.js",
+		"/C/Users/admin/Desktop/website fork/javascript/globals.js",
+		"/C/Users/admin/Desktop/website fork/javascript/drawSvgLine_module.js",
+		"/C/Users/admin/Desktop/website fork/javascript/coordinates_module.js",
+		"/C/Users/admin/Desktop/website fork/javascript/citiesTownsSvg_module.js",
+		"/C/Users/admin/Desktop/website fork/javascript/boxZoom_module.js",
+		"/C/Users/admin/Desktop/website fork/javascript/ArcXML_module.js",
+		"/C/Users/admin/Desktop/website fork/javascript/#globals.js#",
+		"/C/Users/admin/Desktop/leaflet-src.js",
+		"/C/Users/admin/Dropbox/Javascript projects/scopi rewrite fork/website fork21/javascript/zoom_module.js",
+		"/C/Users/admin/Desktop/website fork/css/styles.css",
+		"/C/Users/admin/Desktop/website fork/index.htm",
+		"/C/Users/admin/Desktop/website fork/css/quadTreeMarkerCluster.css",
+		"/C/Users/admin/Desktop/mason county/website/javascript/utilities_module.js",
+		"/C/Users/admin/AppData/Local/Temp/Rar$DR52.168/leaflet-src.js",
+		"/C/Users/admin/Desktop/leaflet.js",
+		"/C/Users/admin/Desktop/website fork/node_modules/grunt/node_modules/js-yaml/examples/custom_types.js",
+		"/C/Users/admin/Desktop/mason county/website/javascript/mapControl_module.js",
+		"/C/Users/admin/Desktop/mason county/website/javascript/zoom_module.js",
+		"/C/Users/admin/AppData/Roaming/Sublime Text 3/Packages/User/Dd-Waher.tmTheme",
+		"/C/Users/admin/AppData/Local/Temp/Rar$DR94.032/leaflet-src.js",
+		"//ACER_ASPIRE_560/ftproot/Monokai.tmTheme",
+		"/C/Users/admin/Desktop/Monokai.tmTheme",
+		"/C/Users/admin/Desktop/website fork/Gruntfile.js",
+		"/C/Users/admin/Desktop/website fork/css/overviewMap.css",
+		"/C/Users/admin/Desktop/website fork/css/propertySearchForm.css",
+		"/C/Users/admin/Desktop/website fork/node_modules/grunt-contrib-uglify/node_modules/uglify-js/lib/compress.js",
+		"/C/Users/admin/AppData/Local/Temp/7zEABEA.tmp/Monokai.tmTheme",
+		"/C/Program Files/Sublime Text 3/changelog.txt",
+		"/C/Users/admin/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/C/Users/admin/Dropbox/Javascript projects/scopi rewrite fork/website fork11/javascript/marker_module.js",
+		"/C/Users/admin/Desktop/chromeAPI.js",
+		"/C/Users/admin/Desktop/scrap folder/mod1.js",
+		"/C/Users/admin/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/admin/Desktop/test.js",
+		"/C/Users/admin/AppData/Roaming/Sublime Text 3/Packages/User/JavaScript.sublime-settings",
+		"/C/Users/admin/Desktop/New folder/node_modules/spinein/spine.js",
+		"/C/Program Files/nodejs/node_modules/npm/lib/stop.js",
+		"/C/Users/admin/Desktop/spinein-master/src/spine.js",
+		"/L/dlink ui enhancer v3.user.js",
+		"/C/Users/admin/Dropbox/Javascript projects/Dlink security camera script/dlink 2330l download everything/dlink 2330l download all videos v2.js",
+		"/C/Users/admin/Dropbox/Javascript projects/scopi rewrite/versions/03-30-2015-0/javascript/globals.js",
+		"/C/Users/admin/Dropbox/Javascript projects/scopi rewrite/versions/03-30-2015-0/javascript/marker_module.js",
+		"/C/Users/admin/Dropbox/Javascript projects/scopi rewrite/versions/03-30-2015-0/javascript/main.js",
+		"/C/Users/admin/Dropbox/Javascript projects/washington law extension/content scripts/contentScript.js",
+		"/C/Users/admin/Desktop/New folder/test.bat",
+		"/C/Users/admin/Dropbox/Javascript projects/Dlink security camera script/dlink 2330l download everything/link 2330l download all videos v7.js",
+		"/C/Users/admin/Dropbox/Javascript projects/Dlink security camera script/dlink ui enhancer v2.user.js",
+		"/L/sd card temp folder/dlink 2330L tamperMonkey.js",
+		"/C/Users/admin/Dropbox/Javascript projects/Dlink security camera script/dlink 2330l download everything/dlink 2330l download all videos v5 fork of v2.js",
+		"/C/Users/admin/Dropbox/Javascript projects/Dlink security camera script/dlink 2330l download everything/link 2330l download all videos v4.js",
+		"/C/Users/admin/Dropbox/Javascript projects/Dlink security camera script/dlink 2330l download everything/dlink 2330l download all videos v3.js",
+		"/C/Users/admin/Dropbox/Javascript projects/Dlink security camera script/dlink 2330l download everything/dlink 2330l download all videos_v2 fork_v5.js",
+		"/C/Users/admin/Dropbox/Javascript projects/Dlink security camera script/dlink 2330l download everything/New Text Document.js",
+		"/C/Users/admin/Dropbox/Javascript projects/Dlink security camera script/dlink 2330l download everything/v2.js",
+		"/C/Users/admin/Desktop/New Text Document.js",
+		"/L/turn around/dcs2330l helper script.user.js",
+		"/C/Users/admin/Dropbox/Javascript projects/Dlink security camera script/dlink.user.js",
+		"/C/Users/admin/Desktop/scrap folder/mod.js",
+		"/C/Users/admin/Desktop/html9responsiveboilerstrap.js",
+		"/C/Users/admin/Desktop/append%20script.js",
+		"/F/Documents and Settings/Mom.COMPUTER_1/Desktop/javascript/chrome extensions/redfin extension/redfin extension/contentscript.js",
+		"/F/Documents and Settings/Mom.COMPUTER_1/Desktop/javascript/chrome extensions/redfin extension/mharris312-Redfin-Chrome-Extension-d516999/contentscript.js",
+		"/F/Documents and Settings/Mom.COMPUTER_1/Desktop/javascript/chrome extensions/redfin extension/mharris312-Redfin-Chrome-Extension-d516999/contentscript1.js",
+		"/F/Documents and Settings/Mom.COMPUTER_1/Desktop/javascript/chrome extensions/redfin extension/mharris312-Redfin-Chrome-Extension-d516999/contentscript2.js",
+		"/F/Documents and Settings/Mom.COMPUTER_1/Local Settings/Application Data/Google/Chrome/User Data/Default/Extensions/jpkfjicglakibpenojifdiepckckakgk/1.13.3_0/js/TabUtils.js",
+		"/C/Users/admin/Desktop/scrap folder/example.bat",
+		"/C/Users/admin/Desktop/scrap folder/test.js",
+		"/C/Users/admin/Desktop/New folder/mod1.js",
+		"/C/Users/admin/Desktop/New folder/test.js",
+		"/C/Users/admin/Desktop/hi.js",
+		"/C/Users/admin/Desktop/New folder/mod.js",
+		"/C/Users/admin/AppData/Local/Google/Chrome/User Data/Default/Extensions/dhdgffkkebhmkfjojejmpbldmpobfkfo/3.12.58_0/vendor/saveas/filesaver.js",
+		"/C/Users/admin/AppData/Local/Google/Chrome/User Data/Default/Extensions/dhdgffkkebhmkfjojejmpbldmpobfkfo/3.12.58_0/pingpong.js",
+		"/C/Users/admin/AppData/Local/Google/Chrome/User Data/Default/Extensions/dhdgffkkebhmkfjojejmpbldmpobfkfo/3.12.58_0/xmlhttprequest.js",
+		"/C/Users/admin/Downloads/DLINK 2330l.user.js",
+		"/C/Users/admin/Downloads/DLINK 2330l (1).user.js",
+		"/C/Users/admin/AppData/Local/Google/Chrome/User Data/Default/Extensions/dhdgffkkebhmkfjojejmpbldmpobfkfo/3.12.58_0/rea/common.js",
+		"/C/Users/admin/Desktop/coursea chrome snippet.js",
+		"/C/Users/admin/AppData/Local/Temp/Rar$DI62.752/ol.js",
+		"/C/Users/admin/AppData/Local/Temp/Rar$DI11.248/leaflet-src.js",
+		"/C/Users/admin/Desktop/website fork/last.js",
+		"/C/Users/admin/Desktop/website fork/gruntBuild/concat.js",
+		"/C/Users/admin/Desktop/website/middle.js",
+		"/C/Users/admin/Desktop/website/last.js",
+		"/C/Users/admin/Desktop/website/first.js",
+		"/C/Users/admin/Desktop/website/gruntBuild/concat.js",
+		"/C/Users/admin/Desktop/website/Gruntfile.js",
+		"/C/Users/admin/AppData/Roaming/npm/node_modules/bearme/cli.js",
+		"/C/Users/admin/Desktop/website fork/javascript/smallCountySvg_module.js",
+		"/C/Users/admin/Desktop/website fork/.gitignore"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 156.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 53.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 156.0
+	},
+	"output.exec":
+	{
+		"height": 366.0
+	},
+	"output.find_results":
+	{
+		"height": 172.0
+	},
+	"output.sublime_linter_panel":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Rollup Watch",
+	"project": "inmateEditor.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 359.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
