@@ -3,9 +3,9 @@ const port = 3000;
 const fs = require("fs");
 
 const requestHandler = (request, response) => {
-    console.log(request.url);
 
     if (request.method === "GET") {
+
         if (request.url === "/src.js") {
             getFile(request, response, "./src.js", "text/javascript");
         } else if (request.url === "/styles.css") {
@@ -14,7 +14,8 @@ const requestHandler = (request, response) => {
             response.writeHead(200, { "Content-Type": "text/plain" });
             response.end(JSON.stringify({ data: body }));
         } else {
-            getFile(request, response, "./index.html", "text/html");
+            console.log("hi",request.method);
+            getFile(request, response, "server_index.html", "text/html");
         }
     } else if (request.method === "POST") {
         if (request.url === "/updatedata") {
@@ -60,6 +61,8 @@ server.listen(port, err => {
 });
 
 function getFile(req, res, loc, contType) {
+    loc = "..\/"+loc;
+    console.log(loc);
     fs.exists(loc, function(exists) {
         if (exists) {
             res.writeHead(200, {

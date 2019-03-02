@@ -16,12 +16,12 @@ var pkg = require('./package.json');
 
 export default {
    // input: "./editor/editor.js",
-    input: "./frontend/src.js",
+    input: "./frontend/js/src.js",
     output: {
         format: "umd",
         name: "The NAME",
         // extend : true,
-        file: "./editor_bundle.js",
+        file: "./js/bundle.js",
         // banner: "import info from \"../inmateJournal.js\";\n",
         // outro: '/* Fancy new Rollup.js outro! */',
         // banner: '/* Fancy new Rollup.js banner! */\n',

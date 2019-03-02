@@ -1159,7 +1159,7 @@ let info = {
           "subj": "I emailed the SnoCo Sheriff about the inmates working off the Stilliguamish Tribes Property.",
           "subjHeight": 34,
           "subjWidth": 850,
-          "body": "They said they don't do business with non-profits, which was funny.\n\nTODO: Read email and update this. ",
+          "body": "I was wondering if David Gladstone would go back to the SnoCo Sheriff for inmate labor, but they said they don't do business with non-profits, which was funny.",
           "bodyHeight": 127,
           "bodyWidth": 862
         }
