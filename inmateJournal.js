@@ -848,7 +848,7 @@ let info = {
       "date": "08-07-2014",
       "entries": [
         {
-          "subj": "Responded to the email from Jason Anderson.",
+          "subj": "*Responded to the email from Jason Anderson.",
           "subjHeight": 58,
           "subjWidth": 856,
           "body": "I asked him if the inmate work crew was going to park on the other side of the railroad tracks where there is a opening in the fence, the south east corner.\n\nHe responded and said that I should be assured that the inmate work crew will not park  adjacent to or in the direct vicinity of my residence, and that they intended to park on the  \"Foundations\" property on the east side of the rail corridor. (I don't know that they parked on property owned by the \"Foundation\", I think it was owned by someone else not sure thou.)\n\nI emailed him back and said that sounds good.\n\nI thought at this time that this was the end of the matter entirely, what a pain.",
@@ -1143,7 +1143,7 @@ let info = {
       "date": "09-13-2016",
       "entries": [
         {
-          "subj": "Debra Eisen never responded to my earlier email, so I emailed her back.",
+          "subj": "*Debra Eisen never responded to my earlier email, so I emailed her back.",
           "subjHeight": 34,
           "subjWidth": 850,
           "body": "She said that she would look into the matter, and about a week later she emailed back and said that her manager had talked to the Stillaguamish Tribe and that they will not request offender crews for that purpose. She also said that the Tribe will only perform labor on land owned by the Tribe.\n\nI assumed that meant that they were not allowed to use labor off their land (which they did for 2015 and part of 2016), so I emailed back and asked what they did in situations like that? She didn't respond.",
@@ -1156,7 +1156,7 @@ let info = {
       "date": "Fall 2016",
       "entries": [
         {
-          "subj": "I emailed the SnoCo Sheriff about the inmates working off the Stilliguamish Tribes Property.",
+          "subj": "*I emailed the SnoCo Sheriff about the inmates working off the Stilliguamish Tribes Property.",
           "subjHeight": 34,
           "subjWidth": 850,
           "body": "I was wondering if David Gladstone would go back to the SnoCo Sheriff for inmate labor, but they said they don't do business with non-profits, which was funny.",
