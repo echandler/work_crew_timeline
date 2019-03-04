@@ -364,7 +364,7 @@ let info = {
       "date": "04-08-2014",
       "entries": [
         {
-          "subj": "Replied to Gus Melonas previous response.",
+          "subj": "*Replied to Gus Melonas previous response. Last communication with Gus Melonas.",
           "subjHeight": 67,
           "subjWidth": 860,
           "body": "I asked him if it was safe to assume that the inmate work crew hadn't been given permission to walk across the tracks (maybe the inmate work crew had been given permission not David Gladstone was my thought).\n\nHe said that was correct.\n\nI thanked him for his time and hard work. I also said that if I found out about anymore information I would let BNSF know.",
@@ -1036,9 +1036,9 @@ let info = {
       "date": "06-09-2016",
       "entries": [
         {
-          "subj": "The inmate work crew showed back up so I sent the prison another email. (Last time the inmate work crew worked there.)",
-          "subjHeight": 34,
-          "subjWidth": 850,
+          "subj": "*The inmate work crew showed back up so I sent the prison another email. (Last time the inmate work crew worked there.)",
+          "subjHeight": 78,
+          "subjWidth": 871,
           "body": "The person that I was told to contact didn't respond to emails, so I sent a firm email to Micheal Obenland, and he said that the inmate work crew would not show back up in this area (that was the last time the inmate work crew showed up).\n\nJason Anderson responded and said that they knew that he acknowledges that the crew will not park on 11th ave, but says they still have a few days left and will utilize a alternate access point.\n\n",
           "bodyHeight": 147,
           "bodyWidth": 877
@@ -1062,7 +1062,7 @@ let info = {
       "date": "06-16-2016",
       "entries": [
         {
-          "subj": "I sent another email to the prison asking about the person David Gladstone had met.",
+          "subj": "*I sent another email to the prison asking about the person David Gladstone had met.",
           "subjHeight": 34,
           "subjWidth": 850,
           "body": "I sent another email to Micheal Obenland, and he said that he was the person that David Gladstone had met and that he was didn't have a problem with them access the property from the area next to my mother home, and that the alternate route was not appropriate (I'm not sure where the \"alternate route\" was, I'm assuming it was the place they parked in 2014 and 2015). \n\nI sent him back a long winded email explaining the past and he didn't respond. I sent him another few emails over the next few days, but he didn't respond to those either.\n",
