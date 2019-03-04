@@ -20,7 +20,7 @@ let info = {
           "bodyWidth": 1143
         },
         {
-          "subj": "Sent an email to the Stillaguamish Tribe Police Department.",
+          "subj": "*Sent an email to the Stillaguamish Tribe Police Department.",
           "subjHeight": 34,
           "subjWidth": 850,
           "body": "Joe Orford responded and said he would respond the next day when he got back to work. He never responded back.",
@@ -127,7 +127,7 @@ let info = {
       "date": "10-10-2013",
       "entries": [
         {
-          "subj": "Last email with the Snohomish County Conservation Dist. (for 2013).",
+          "subj": "*Last email with the Snohomish County Conservation Dist. (for 2013).",
           "subjHeight": 69,
           "subjWidth": 861,
           "body": "They responded on 10/08/2013. I wanted to know if they were aware of workers accessing the property from the other side of the railroad tracks. At that time I was trying to find another place for the inmate work crews to park. There was an opening in the fence on the south-east corner that people have been walking through, I wanted to explore the possibility of the inmate workers accessing that property from that spot.\n\nThey said that they didn't know about accessing the property from the other side of the railroad tracks, they said they parked on 11th Ave and walked across the tracks. They offered to contact the owner of the property and \"...pass on your desire to have them park somewhere else and can encourage the landowner to get in touch with you about your concerns.\n\nI said that was fine and offered some alternative routes, also mentioned that they may be walking across the tracks illegally, and then requested that David Gladstone talk to my mother.\n\nThey didn't contact him for about six months.",
@@ -304,7 +304,7 @@ let info = {
       "date": "04-02-2014",
       "entries": [
         {
-          "subj": "Sent an email to the Snohomish County Conservation Dist. ",
+          "subj": "*Sent an email to the Snohomish County Conservation Dist. ",
           "subjHeight": 55,
           "subjWidth": 850,
           "body": "The Snohomish County Conservation Dist. told me months earlier that they would contact David Gladstone; I didn't hear back from them or David Gladstone, so I sent them an email asking if they had a chance to speak with him and that we expected the inmates to show up soon.",
