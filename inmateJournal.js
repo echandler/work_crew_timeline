@@ -23,7 +23,7 @@ let info = {
           "subj": "<strong>*</strong>Sent an email to the Stillaguamish Tribe Police Department.",
           "subjHeight": 34,
           "subjWidth": 850,
-          "body": "Joe Orford responded and said he would respond the next day when he got back to work. He never responded back.",
+          "body": "Joe Orford responded and said he would respond the next day when he got back to work. He never responded back.\n\nJoe Orford was the chief of the Stillaguamish Police Dept. at the time, he is now \"Director of Security\" at the Hyatt Regency in Seattle according to his <a href=\"https://www.linkedin.com/in/joe-orford-43018877\">Linkedin profile</a>.",
           "bodyHeight": 77,
           "bodyWidth": 1048
         }

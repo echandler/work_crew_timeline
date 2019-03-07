@@ -18,10 +18,12 @@ var app = {
         var state = app.model.get();
         var main = document.getElementById('main_content');
         var main_ul = main.querySelector('ul');
+        var fragment = document.createDocumentFragment();
 
         main_ul.innerHTML = '';
 
         info.events.forEach(event => {
+
             var li = document.createElement("li");
 
             var section = document.createElement("section");
@@ -49,6 +51,10 @@ var app = {
                 subject.innerHTML = entry.subj;
                 body.innerHTML = entry.body.split(/\n\s*\n/).map((p)=> "<p>" + p + "</p>").join('');
 
+                state[subject.innerText]
+                    ? (body.className = state[subject.innerText])
+                    : (body.className += " entry__body--closed");
+                
                 li.appendChild(article);
                 article.appendChild(subject);
                 article.appendChild(body);
@@ -56,8 +62,10 @@ var app = {
                 ul.appendChild(li);
             });
 
-            main_ul.appendChild(li);
+            fragment.appendChild(li);
         });
+        
+        main_ul.appendChild(fragment);
 
         var entries = document.querySelectorAll(".entry");
         for (var n = 0; n < entries.length; n++) {
@@ -74,9 +82,6 @@ var app = {
                 })(subject, body)
             );
 
-            state[subject.innerText]
-                ? (body.className = state[subject.innerText])
-                : (body.className += " entry__body--closed");
         }
     },
 
