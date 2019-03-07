@@ -20,7 +20,7 @@ let info = {
           "bodyWidth": 1143
         },
         {
-          "subj": "*Sent an email to the Stillaguamish Tribe Police Department.",
+          "subj": "<strong>*</strong>Sent an email to the Stillaguamish Tribe Police Department.",
           "subjHeight": 34,
           "subjWidth": 850,
           "body": "Joe Orford responded and said he would respond the next day when he got back to work. He never responded back.",
@@ -127,7 +127,7 @@ let info = {
       "date": "10-10-2013",
       "entries": [
         {
-          "subj": "*Last email with the Snohomish County Conservation Dist. (for 2013).",
+          "subj": "<strong>*</strong>Last email with the Snohomish County Conservation Dist. (for 2013).",
           "subjHeight": 69,
           "subjWidth": 861,
           "body": "They responded on 10/08/2013. I wanted to know if they were aware of workers accessing the property from the other side of the railroad tracks. At that time I was trying to find another place for the inmate work crews to park. There was an opening in the fence on the south-east corner that people have been walking through, I wanted to explore the possibility of the inmate workers accessing that property from that spot.\n\nThey said that they didn't know about accessing the property from the other side of the railroad tracks, they said they parked on 11th Ave and walked across the tracks. They offered to contact the owner of the property and \"...pass on your desire to have them park somewhere else and can encourage the landowner to get in touch with you about your concerns.\n\nI said that was fine and offered some alternative routes, also mentioned that they may be walking across the tracks illegally, and then requested that David Gladstone talk to my mother.\n\nThey didn't contact him for about six months.",
@@ -304,7 +304,7 @@ let info = {
       "date": "04-02-2014",
       "entries": [
         {
-          "subj": "*Sent an email to the Snohomish County Conservation Dist. ",
+          "subj": "<strong>*</strong>Sent an email to the Snohomish County Conservation Dist. ",
           "subjHeight": 55,
           "subjWidth": 850,
           "body": "The Snohomish County Conservation Dist. told me months earlier that they would contact David Gladstone; I didn't hear back from them or David Gladstone, so I sent them an email asking if they had a chance to speak with him and that we expected the inmates to show up soon.",
@@ -364,7 +364,7 @@ let info = {
       "date": "04-08-2014",
       "entries": [
         {
-          "subj": "*Replied to Gus Melonas previous response. Last communication with Gus Melonas.",
+          "subj": "<strong>*</strong>Replied to Gus Melonas previous response. Last communication with Gus Melonas.",
           "subjHeight": 67,
           "subjWidth": 860,
           "body": "I asked him if it was safe to assume that the inmate work crew hadn't been given permission to walk across the tracks (maybe the inmate work crew had been given permission not David Gladstone was my thought).\n\nHe said that was correct.\n\nI thanked him for his time and hard work. I also said that if I found out about anymore information I would let BNSF know.",
@@ -848,7 +848,7 @@ let info = {
       "date": "08-07-2014",
       "entries": [
         {
-          "subj": "*Responded to the email from Jason Anderson.",
+          "subj": "<strong>*</strong>Responded to the email from Jason Anderson.",
           "subjHeight": 58,
           "subjWidth": 856,
           "body": "I asked him if the inmate work crew was going to park on the other side of the railroad tracks where there is a opening in the fence, the south east corner.\n\nHe responded and said that I should be assured that the inmate work crew will not park  adjacent to or in the direct vicinity of my residence, and that they intended to park on the  \"Foundations\" property on the east side of the rail corridor. (I don't know that they parked on property owned by the \"Foundation\", I think it was owned by someone else not sure thou.)\n\nI emailed him back and said that sounds good.\n\nI thought at this time that this was the end of the matter entirely, what a pain.",
@@ -1036,7 +1036,7 @@ let info = {
       "date": "06-09-2016",
       "entries": [
         {
-          "subj": "*The inmate work crew showed back up so I sent the prison another email. (Last time the inmate work crew worked there.)",
+          "subj": "<strong>*</strong>The inmate work crew showed back up so I sent the prison another email. (Last time the inmate work crew worked there.)",
           "subjHeight": 78,
           "subjWidth": 871,
           "body": "The person that I was told to contact didn't respond to emails, so I sent a firm email to Micheal Obenland, and he said that the inmate work crew would not show back up in this area (that was the last time the inmate work crew showed up).\n\nJason Anderson responded and said that they knew that he acknowledges that the crew will not park on 11th ave, but says they still have a few days left and will utilize a alternate access point.\n\n",
@@ -1062,7 +1062,7 @@ let info = {
       "date": "06-16-2016",
       "entries": [
         {
-          "subj": "*I sent another email to the prison asking about the person David Gladstone had met.",
+          "subj": "<strong>*</strong>I sent another email to the prison asking about the person David Gladstone had met.",
           "subjHeight": 34,
           "subjWidth": 850,
           "body": "I sent another email to Micheal Obenland, and he said that he was the person that David Gladstone had met and that he was didn't have a problem with them access the property from the area next to my mother home, and that the alternate route was not appropriate (I'm not sure where the \"alternate route\" was, I'm assuming it was the place they parked in 2014 and 2015). \n\nI sent him back a long winded email explaining the past and he didn't respond. I sent him another few emails over the next few days, but he didn't respond to those either.\n",
@@ -1143,7 +1143,7 @@ let info = {
       "date": "09-13-2016",
       "entries": [
         {
-          "subj": "*Debra Eisen never responded to my earlier email, so I emailed her back.",
+          "subj": "<strong>*</strong>Debra Eisen never responded to my earlier email, so I emailed her back.",
           "subjHeight": 34,
           "subjWidth": 850,
           "body": "She said that she would look into the matter, and about a week later she emailed back and said that her manager had talked to the Stillaguamish Tribe and that they will not request offender crews for that purpose. She also said that the Tribe will only perform labor on land owned by the Tribe.\n\nI assumed that meant that they were not allowed to use labor off their land (which they did for 2015 and part of 2016), so I emailed back and asked what they did in situations like that? She didn't respond.",
@@ -1156,7 +1156,7 @@ let info = {
       "date": "Fall 2016",
       "entries": [
         {
-          "subj": "*I emailed the SnoCo Sheriff about the inmates working off the Stilliguamish Tribes Property.",
+          "subj": "<strong>*</strong>I emailed the SnoCo Sheriff about the inmates working off the Stilliguamish Tribes Property.",
           "subjHeight": 34,
           "subjWidth": 850,
           "body": "I was wondering if David Gladstone would go back to the SnoCo Sheriff for inmate labor, but they said they don't do business with non-profits, which was funny.",

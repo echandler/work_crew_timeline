@@ -17,6 +17,9 @@ html {
     background: linear-gradient(rgba(255, 0, 0, 0.15), rgba(255, 0, 0, 0.15) 1px, transparent 1px);
     background-size: 1px 1.5rem;
 }*/
+strong {
+    font-weight: bold;
+}
 
 p, h1, h2, h3  {
     margin-bottom: 0.75rem;
