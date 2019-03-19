@@ -7,8 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "rollup -c",
     "rollupWatch": "rollup -c -w",
-    "rollupOpts": "rollup"
-  },
+    "rollupOpts": "rollup",
   "author": "",
   "license": "ISC",
   "devDependencies": {

@@ -1,7 +1,8 @@
-(function (factory) {
+(function (global, factory) {
+  typeof exports === 'object' && typeof module !== 'undefined' ? factory() :
   typeof define === 'function' && define.amd ? define(factory) :
-  factory();
-}(function () { 'use strict';
+  (factory());
+}(this, (function () { 'use strict';
 
   let info = {
     "events": [
@@ -25,12 +26,12 @@
             "bodyWidth": 1143
           },
           {
-            "subj": "Sent an email to the Stillaguamish Tribe Police Department.",
+            "subj": "<strong>*</strong>Sent an email to the Stillaguamish Tribe Police Department.",
             "subjHeight": 34,
             "subjWidth": 850,
-            "body": "Joe Orford responded and said he would respond the next day when he got back to work. He never responded back.",
-            "bodyHeight": 77,
-            "bodyWidth": 1048
+            "body": "Joe Orford responded and said he would respond the next day when he got back to work. He never responded back.\n\nJoe Orford was the chief of the Stillaguamish Police Dept. at the time, he is now \"Director of Security\" at the Hyatt Regency in Seattle according to his <a href=\"https://www.linkedin.com/in/joe-orford-43018877\">Linkedin profile</a>.",
+            "bodyHeight": 175,
+            "bodyWidth": 1052
           }
         ]
       },
@@ -75,7 +76,7 @@
             "subj": "I emailed Jones Lang LaSalle Brokerage (they deal with BNSF permits) about a permit to walk across the tracks.",
             "subjHeight": 76,
             "subjWidth": 880,
-            "body": "<div class=\"todo\">Todo: This doesn't make sense</div>\nI'm not sure when I emailed them exactly, but they responded back on this day and asked that I call them and they included an application as an attachment. They said that there was a one time non refundable processing fee of $600.\n\nI responded and wanted to clarify that the inmate work crew would need that permit to walk across the railroad tracks. I also said that they probably won't be back for many months and that I would keep them informed when/if they show up again.\n\nThey responded back and said that the information they sent me was the agreement that they would need to get in order to be on BNSF property.\n\nI emailed them back on 06-24-2014.",
+            "body": "I'm not sure when I emailed them exactly, but they responded back on this day and asked that I call them, and they included an application for a permit as an attachment. They said that there was a one time non- refundable processing fee of $600.\n\nI responded to their email and wanted to clarify that the inmate work crew would need a permit to walk across the railroad tracks. I also said that they probably won't be back for many months and that I would keep them informed when/if they show up again.\n\nThey responded back and said that the information they sent me was the agreement that they would need to get in order to be on BNSF property.\n\nI emailed them back on 06-24-2014.",
             "bodyHeight": 300,
             "bodyWidth": 1045
           }
@@ -132,7 +133,7 @@
         "date": "10-10-2013",
         "entries": [
           {
-            "subj": "Last email with the Snohomish County Conservation Dist. (for 2013).",
+            "subj": "<strong>*</strong>Last email with the Snohomish County Conservation Dist. (for 2013).",
             "subjHeight": 69,
             "subjWidth": 861,
             "body": "They responded on 10/08/2013. I wanted to know if they were aware of workers accessing the property from the other side of the railroad tracks. At that time I was trying to find another place for the inmate work crews to park. There was an opening in the fence on the south-east corner that people have been walking through, I wanted to explore the possibility of the inmate workers accessing that property from that spot.\n\nThey said that they didn't know about accessing the property from the other side of the railroad tracks, they said they parked on 11th Ave and walked across the tracks. They offered to contact the owner of the property and \"...pass on your desire to have them park somewhere else and can encourage the landowner to get in touch with you about your concerns.\n\nI said that was fine and offered some alternative routes, also mentioned that they may be walking across the tracks illegally, and then requested that David Gladstone talk to my mother.\n\nThey didn't contact him for about six months.",
@@ -239,7 +240,7 @@
             "subj": "I responded to Gus Melonas (BNSF).",
             "subjHeight": 66,
             "subjWidth": 862,
-            "body": "I asked him what information he needed and asked to be forwarded to an assistant if he was too busy.\n\nI sent another email asking if this was more of a question for the BNSF police and stated that information would be good to know before they showed up, which was probably going to be sometime that month.\n\nTODO: Did they show up that month?",
+            "body": "I asked him what information he needed and asked to be forwarded to an assistant if he was too busy.\n\nI sent another email asking if this was more of a question for the BNSF police and stated that information would be good to know before they showed up, which was probably going to be sometime that month.",
             "bodyHeight": 186,
             "bodyWidth": 1095
           },
@@ -309,7 +310,7 @@
         "date": "04-02-2014",
         "entries": [
           {
-            "subj": "Sent an email to the Snohomish County Conservation Dist. ",
+            "subj": "<strong>*</strong>Sent an email to the Snohomish County Conservation Dist. ",
             "subjHeight": 55,
             "subjWidth": 850,
             "body": "The Snohomish County Conservation Dist. told me months earlier that they would contact David Gladstone; I didn't hear back from them or David Gladstone, so I sent them an email asking if they had a chance to speak with him and that we expected the inmates to show up soon.",
@@ -325,7 +326,7 @@
             "subj": "Sent some additional information to Gus Melonas about the land they were walking on.",
             "subjHeight": 58,
             "subjWidth": 851,
-            "body": "I sent another email to Gus Melonas with information about the previous owner of the property and speculated that they had been walking across the railroad tracks at that spot for decades. I asked if there was some sort of \"grandfathered\" permit that would allow them to walk across the tracks. \n\nI was told by the BNSF police that David Gladstone had an easement to walk across the tracks at that spot.",
+            "body": "I sent another email to Gus Melonas with information about the previous owner of the property and speculated that they had been walking across the railroad tracks at that spot for decades. I asked if there was some sort of \"grandfathered\" permit that would allow them to walk across the tracks. \n\nLater that summer I was told by the BNSF police that David Gladstone had an easement to walk across the tracks at that spot.",
             "bodyHeight": 184,
             "bodyWidth": 935
           },
@@ -369,7 +370,7 @@
         "date": "04-08-2014",
         "entries": [
           {
-            "subj": "Replied to Gus Melonas previous response.",
+            "subj": "<strong>*</strong>Replied to Gus Melonas previous response. Last communication with Gus Melonas.",
             "subjHeight": 67,
             "subjWidth": 860,
             "body": "I asked him if it was safe to assume that the inmate work crew hadn't been given permission to walk across the tracks (maybe the inmate work crew had been given permission not David Gladstone was my thought).\n\nHe said that was correct.\n\nI thanked him for his time and hard work. I also said that if I found out about anymore information I would let BNSF know.",
@@ -398,7 +399,7 @@
             "subj": "Patrick Stevenson responded to the email from a month earlier.",
             "subjHeight": 55,
             "subjWidth": 856,
-            "body": "I'm not sure how to paraphrase this email so here it is:\n\n\"Eric, I think below you will notice your acknowledgment that I e-mailed you back with a request to meet and discuss the issues you have with the inmates parking and walking by your place. Are you still too busy to meet??? We have a good working relationship with Dave Gladstone and like working with him and his habitat restoration work. I would like to resolve this as soon as possible to meet both our needs. I don't have any info about a permit to cross the tracks I will look into that and let you know. I need to follow up with our crew supervisor about alternative access as he thought it was not as simple as you imply. Talk to you soon Have a good day Pat\"\n\nTODO: Paraphrase my response.",
+            "body": "I'm not sure how to paraphrase this email so here it is:\n\n\"Eric, I think below you will notice your acknowledgment that I e-mailed you back with a request to meet and discuss the issues you have with the inmates parking and walking by your place. Are you still too busy to meet??? We have a good working relationship with Dave Gladstone and like working with him and his habitat restoration work. I would like to resolve this as soon as possible to meet both our needs. I don't have any info about a permit to cross the tracks I will look into that and let you know. I need to follow up with our crew supervisor about alternative access as he thought it was not as simple as you imply. Talk to you soon Have a good day Pat\"\n\nI responded with a lengthy email letting him know I was unhappy with the situation.",
             "bodyHeight": 246,
             "bodyWidth": 1127
           }
@@ -513,7 +514,7 @@
             "subj": "I sent an email to the Snohomish County Sheriff about the inmate work crew working for the Stillaguamish Tribe.",
             "subjHeight": 77,
             "subjWidth": 909,
-            "body": "I forwarded the previous email from the DOC to the Snohomish County Sheriff and then explained the events up to that point. \n\nIn a long winded email I explained to them that I sent an email about 7 months earlier to the Stillaguamish Tribe asking them to park the inmate work crew away from our residence and asked about a permit to walk across the railroad tracks.\n\nI said that I talked to BNSF who said they didn't know of any permits given to them, and explained about how hard it was to get a response from Patrick Stevenson and that he finally responded and said that he didn't know of a permit to walk across the tracks, but would look into it and get back. I pointed out that they have been walking across the tracks for years with out any knowledge of the legality of doing so. I told them that Patrick Stevenson said he would find another place to park but only as a courtesy.\n\nI said that I had recently emailed Patrick Stevenson about permission to walk across the tracks but got no response. \n\nI told them that the worker was mowing a path to the railroad tracks and that I expected them to show up the next Monday. I then asked if that could be prevented until they find another place for them to park and to determine if they have permission to walk across the railroad tracks.\n\nI told them about the meeting with David Gladstone and then mentioned the PUD property and that they don't appear to be able to access that gate near the railroad tracks (as far as I knew at that time).\n\nTODO: recheck this.",
+            "body": "I forwarded the previous email from the DOC to the Snohomish County Sheriff and then explained the events up to that point. \n\nIn a long winded email I explained to them that I sent an email about 7 months earlier to the Stillaguamish Tribe asking them to park the inmate work crew away from our residence and asked about a permit to walk across the railroad tracks.\n\nI said that I talked to BNSF who said they didn't know of any permits given to them, and explained about how hard it was to get a response from Patrick Stevenson and that he finally responded and said that he didn't know of a permit to walk across the tracks, but would look into it and get back. I pointed out that they have been walking across the tracks for years with out any knowledge of the legality of doing so. I told them that Patrick Stevenson said he would find another place to park but only as a courtesy.\n\nI said that I had recently emailed Patrick Stevenson about permission to walk across the tracks but got no response. \n\nI told them that the worker was mowing a path to the railroad tracks and that I expected them to show up the next Monday. I then asked if that could be prevented until they find another place for them to park and to determine if they have permission to walk across the railroad tracks.\n\nI told them about the meeting with David Gladstone and then mentioned the PUD property and that they don't appear to be able to access that gate near the railroad tracks (as far as I knew at that time).\n\nTODO: Recheck this.",
             "bodyHeight": 521,
             "bodyWidth": 1022
           }
@@ -853,7 +854,7 @@
         "date": "08-07-2014",
         "entries": [
           {
-            "subj": "Responded to the email from Jason Anderson.",
+            "subj": "<strong>*</strong>Responded to the email from Jason Anderson.",
             "subjHeight": 58,
             "subjWidth": 856,
             "body": "I asked him if the inmate work crew was going to park on the other side of the railroad tracks where there is a opening in the fence, the south east corner.\n\nHe responded and said that I should be assured that the inmate work crew will not park  adjacent to or in the direct vicinity of my residence, and that they intended to park on the  \"Foundations\" property on the east side of the rail corridor. (I don't know that they parked on property owned by the \"Foundation\", I think it was owned by someone else not sure thou.)\n\nI emailed him back and said that sounds good.\n\nI thought at this time that this was the end of the matter entirely, what a pain.",
@@ -1041,9 +1042,9 @@
         "date": "06-09-2016",
         "entries": [
           {
-            "subj": "The inmate work crew showed back up so I sent the prison another email. (Last time the inmate work crew worked there.)",
-            "subjHeight": 34,
-            "subjWidth": 850,
+            "subj": "<strong>*</strong>The inmate work crew showed back up so I sent the prison another email. (Last time the inmate work crew worked there.)",
+            "subjHeight": 78,
+            "subjWidth": 871,
             "body": "The person that I was told to contact didn't respond to emails, so I sent a firm email to Micheal Obenland, and he said that the inmate work crew would not show back up in this area (that was the last time the inmate work crew showed up).\n\nJason Anderson responded and said that they knew that he acknowledges that the crew will not park on 11th ave, but says they still have a few days left and will utilize a alternate access point.\n\n",
             "bodyHeight": 147,
             "bodyWidth": 877
@@ -1067,7 +1068,7 @@
         "date": "06-16-2016",
         "entries": [
           {
-            "subj": "I sent another email to the prison asking about the person David Gladstone had met.",
+            "subj": "<strong>*</strong>I sent another email to the prison asking about the person David Gladstone had met.",
             "subjHeight": 34,
             "subjWidth": 850,
             "body": "I sent another email to Micheal Obenland, and he said that he was the person that David Gladstone had met and that he was didn't have a problem with them access the property from the area next to my mother home, and that the alternate route was not appropriate (I'm not sure where the \"alternate route\" was, I'm assuming it was the place they parked in 2014 and 2015). \n\nI sent him back a long winded email explaining the past and he didn't respond. I sent him another few emails over the next few days, but he didn't respond to those either.\n",
@@ -1148,7 +1149,7 @@
         "date": "09-13-2016",
         "entries": [
           {
-            "subj": "Debra Eisen never responded to my earlier email, so I emailed her back.",
+            "subj": "<strong>*</strong>Debra Eisen never responded to my earlier email, so I emailed her back.",
             "subjHeight": 34,
             "subjWidth": 850,
             "body": "She said that she would look into the matter, and about a week later she emailed back and said that her manager had talked to the Stillaguamish Tribe and that they will not request offender crews for that purpose. She also said that the Tribe will only perform labor on land owned by the Tribe.\n\nI assumed that meant that they were not allowed to use labor off their land (which they did for 2015 and part of 2016), so I emailed back and asked what they did in situations like that? She didn't respond.",
@@ -1161,7 +1162,7 @@
         "date": "Fall 2016",
         "entries": [
           {
-            "subj": "I emailed the SnoCo Sheriff about the inmates working off the Stilliguamish Tribes Property.",
+            "subj": "<strong>*</strong>I emailed the SnoCo Sheriff about the inmates working off the Stilliguamish Tribes Property.",
             "subjHeight": 34,
             "subjWidth": 850,
             "body": "I was wondering if David Gladstone would go back to the SnoCo Sheriff for inmate labor, but they said they don't do business with non-profits, which was funny.",
@@ -1217,10 +1218,12 @@
           var state = app.model.get();
           var main = document.getElementById('main_content');
           var main_ul = main.querySelector('ul');
+          var fragment = document.createDocumentFragment();
 
           main_ul.innerHTML = '';
 
           info.events.forEach(event => {
+
               var li = document.createElement("li");
 
               var section = document.createElement("section");
@@ -1240,23 +1243,31 @@
                   var li = document.createElement("li");
                   var article = document.createElement("article");
                   article.className = "entry";
+
                   var subject = document.createElement("h3");
                   subject.className = "entry__subject";
+
                   var body = document.createElement("div");
                   body.className = "entry__body";
 
                   subject.innerHTML = entry.subj;
+
                   body.innerHTML = entry.body.split(/\n\s*\n/).map((p)=> "<p>" + p + "</p>").join('');
 
+                  state[subject.innerText]
+                      ? (body.className = state[subject.innerText])
+                      : (body.className += " entry__body--closed");
+                  
                   li.appendChild(article);
                   article.appendChild(subject);
                   article.appendChild(body);
-
                   ul.appendChild(li);
               });
 
-              main_ul.appendChild(li);
+              fragment.appendChild(li);
           });
+          
+          main_ul.appendChild(fragment);
 
           var entries = document.querySelectorAll(".entry");
           for (var n = 0; n < entries.length; n++) {
@@ -1273,9 +1284,6 @@
                   })(subject, body)
               );
 
-              state[subject.innerText]
-                  ? (body.className = state[subject.innerText])
-                  : (body.className += " entry__body--closed");
           }
       },
 
@@ -1293,4 +1301,4 @@
 
   app.init();
 
-}));
+})));

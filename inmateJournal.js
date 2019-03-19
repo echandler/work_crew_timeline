@@ -24,8 +24,8 @@ let info = {
           "subjHeight": 34,
           "subjWidth": 850,
           "body": "Joe Orford responded and said he would respond the next day when he got back to work. He never responded back.\n\nJoe Orford was the chief of the Stillaguamish Police Dept. at the time, he is now \"Director of Security\" at the Hyatt Regency in Seattle according to his <a href=\"https://www.linkedin.com/in/joe-orford-43018877\">Linkedin profile</a>.",
-          "bodyHeight": 77,
-          "bodyWidth": 1048
+          "bodyHeight": 175,
+          "bodyWidth": 1052
         }
       ]
     },
@@ -70,7 +70,7 @@ let info = {
           "subj": "I emailed Jones Lang LaSalle Brokerage (they deal with BNSF permits) about a permit to walk across the tracks.",
           "subjHeight": 76,
           "subjWidth": 880,
-          "body": "<div class=\"todo\">Todo: This doesn't make sense</div>\nI'm not sure when I emailed them exactly, but they responded back on this day and asked that I call them and they included an application as an attachment. They said that there was a one time non refundable processing fee of $600.\n\nI responded and wanted to clarify that the inmate work crew would need that permit to walk across the railroad tracks. I also said that they probably won't be back for many months and that I would keep them informed when/if they show up again.\n\nThey responded back and said that the information they sent me was the agreement that they would need to get in order to be on BNSF property.\n\nI emailed them back on 06-24-2014.",
+          "body": "I'm not sure when I emailed them exactly, but they responded back on this day and asked that I call them, and they included an application for a permit as an attachment. They said that there was a one time non- refundable processing fee of $600.\n\nI responded to their email and wanted to clarify that the inmate work crew would need a permit to walk across the railroad tracks. I also said that they probably won't be back for many months and that I would keep them informed when/if they show up again.\n\nThey responded back and said that the information they sent me was the agreement that they would need to get in order to be on BNSF property.\n\nI emailed them back on 06-24-2014.",
           "bodyHeight": 300,
           "bodyWidth": 1045
         }
@@ -234,7 +234,7 @@ let info = {
           "subj": "I responded to Gus Melonas (BNSF).",
           "subjHeight": 66,
           "subjWidth": 862,
-          "body": "I asked him what information he needed and asked to be forwarded to an assistant if he was too busy.\n\nI sent another email asking if this was more of a question for the BNSF police and stated that information would be good to know before they showed up, which was probably going to be sometime that month.\n\nTODO: Did they show up that month?",
+          "body": "I asked him what information he needed and asked to be forwarded to an assistant if he was too busy.\n\nI sent another email asking if this was more of a question for the BNSF police and stated that information would be good to know before they showed up, which was probably going to be sometime that month.",
           "bodyHeight": 186,
           "bodyWidth": 1095
         },
@@ -320,7 +320,7 @@ let info = {
           "subj": "Sent some additional information to Gus Melonas about the land they were walking on.",
           "subjHeight": 58,
           "subjWidth": 851,
-          "body": "I sent another email to Gus Melonas with information about the previous owner of the property and speculated that they had been walking across the railroad tracks at that spot for decades. I asked if there was some sort of \"grandfathered\" permit that would allow them to walk across the tracks. \n\nI was told by the BNSF police that David Gladstone had an easement to walk across the tracks at that spot.",
+          "body": "I sent another email to Gus Melonas with information about the previous owner of the property and speculated that they had been walking across the railroad tracks at that spot for decades. I asked if there was some sort of \"grandfathered\" permit that would allow them to walk across the tracks. \n\nLater that summer I was told by the BNSF police that David Gladstone had an easement to walk across the tracks at that spot.",
           "bodyHeight": 184,
           "bodyWidth": 935
         },
@@ -393,7 +393,7 @@ let info = {
           "subj": "Patrick Stevenson responded to the email from a month earlier.",
           "subjHeight": 55,
           "subjWidth": 856,
-          "body": "I'm not sure how to paraphrase this email so here it is:\n\n\"Eric, I think below you will notice your acknowledgment that I e-mailed you back with a request to meet and discuss the issues you have with the inmates parking and walking by your place. Are you still too busy to meet??? We have a good working relationship with Dave Gladstone and like working with him and his habitat restoration work. I would like to resolve this as soon as possible to meet both our needs. I don't have any info about a permit to cross the tracks I will look into that and let you know. I need to follow up with our crew supervisor about alternative access as he thought it was not as simple as you imply. Talk to you soon Have a good day Pat\"\n\nTODO: Paraphrase my response.",
+          "body": "I'm not sure how to paraphrase this email so here it is:\n\n\"Eric, I think below you will notice your acknowledgment that I e-mailed you back with a request to meet and discuss the issues you have with the inmates parking and walking by your place. Are you still too busy to meet??? We have a good working relationship with Dave Gladstone and like working with him and his habitat restoration work. I would like to resolve this as soon as possible to meet both our needs. I don't have any info about a permit to cross the tracks I will look into that and let you know. I need to follow up with our crew supervisor about alternative access as he thought it was not as simple as you imply. Talk to you soon Have a good day Pat\"\n\nI responded with a lengthy email letting him know I was unhappy with the situation.",
           "bodyHeight": 246,
           "bodyWidth": 1127
         }
@@ -508,7 +508,7 @@ let info = {
           "subj": "I sent an email to the Snohomish County Sheriff about the inmate work crew working for the Stillaguamish Tribe.",
           "subjHeight": 77,
           "subjWidth": 909,
-          "body": "I forwarded the previous email from the DOC to the Snohomish County Sheriff and then explained the events up to that point. \n\nIn a long winded email I explained to them that I sent an email about 7 months earlier to the Stillaguamish Tribe asking them to park the inmate work crew away from our residence and asked about a permit to walk across the railroad tracks.\n\nI said that I talked to BNSF who said they didn't know of any permits given to them, and explained about how hard it was to get a response from Patrick Stevenson and that he finally responded and said that he didn't know of a permit to walk across the tracks, but would look into it and get back. I pointed out that they have been walking across the tracks for years with out any knowledge of the legality of doing so. I told them that Patrick Stevenson said he would find another place to park but only as a courtesy.\n\nI said that I had recently emailed Patrick Stevenson about permission to walk across the tracks but got no response. \n\nI told them that the worker was mowing a path to the railroad tracks and that I expected them to show up the next Monday. I then asked if that could be prevented until they find another place for them to park and to determine if they have permission to walk across the railroad tracks.\n\nI told them about the meeting with David Gladstone and then mentioned the PUD property and that they don't appear to be able to access that gate near the railroad tracks (as far as I knew at that time).\n\nTODO: recheck this.",
+          "body": "I forwarded the previous email from the DOC to the Snohomish County Sheriff and then explained the events up to that point. \n\nIn a long winded email I explained to them that I sent an email about 7 months earlier to the Stillaguamish Tribe asking them to park the inmate work crew away from our residence and asked about a permit to walk across the railroad tracks.\n\nI said that I talked to BNSF who said they didn't know of any permits given to them, and explained about how hard it was to get a response from Patrick Stevenson and that he finally responded and said that he didn't know of a permit to walk across the tracks, but would look into it and get back. I pointed out that they have been walking across the tracks for years with out any knowledge of the legality of doing so. I told them that Patrick Stevenson said he would find another place to park but only as a courtesy.\n\nI said that I had recently emailed Patrick Stevenson about permission to walk across the tracks but got no response. \n\nI told them that the worker was mowing a path to the railroad tracks and that I expected them to show up the next Monday. I then asked if that could be prevented until they find another place for them to park and to determine if they have permission to walk across the railroad tracks.\n\nI told them about the meeting with David Gladstone and then mentioned the PUD property and that they don't appear to be able to access that gate near the railroad tracks (as far as I knew at that time).\n\nTODO: Recheck this.",
           "bodyHeight": 521,
           "bodyWidth": 1022
         }

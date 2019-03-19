@@ -43,12 +43,15 @@ var app = {
                 var li = document.createElement("li");
                 var article = document.createElement("article");
                 article.className = "entry";
+
                 var subject = document.createElement("h3");
                 subject.className = "entry__subject";
+
                 var body = document.createElement("div");
                 body.className = "entry__body";
 
                 subject.innerHTML = entry.subj;
+
                 body.innerHTML = entry.body.split(/\n\s*\n/).map((p)=> "<p>" + p + "</p>").join('');
 
                 state[subject.innerText]
@@ -58,7 +61,6 @@ var app = {
                 li.appendChild(article);
                 article.appendChild(subject);
                 article.appendChild(body);
-
                 ul.appendChild(li);
             });
 
